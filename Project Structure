@@ -1,0 +1,12 @@
+code
+Text
+/travel-app
+├── /backend
+│   ├── .env               # Your API Keys go here
+│   ├── server.js          # The API Proxy
+│   └── package.json
+├── /frontend
+│   ├── App.js             # Main App Logic
+│   ├── components/        # UI pieces
+│   └── package.json
+└── README.md
