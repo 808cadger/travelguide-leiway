@@ -1,5 +1,33 @@
 # TravelGuide LeiWay
 
+<!-- INSTALL-START -->
+## Install and run
+
+These instructions install and run `travelguide-leiway` from a fresh clone.
+
+### Clone
+```bash
+git clone https://github.com/808cadger/travelguide-leiway.git
+cd travelguide-leiway
+```
+
+### Static web preview
+```bash
+python3 -m http.server 8080
+```
+
+### Notes
+- Open http://localhost:8080 in a browser. You can also open `index.html` directly.
+
+### AI/API setup
+- If the app has AI features, add the required provider key in the app settings or local `.env` file.
+- Browser-only apps store user-provided API keys on the local device unless a backend endpoint is configured.
+
+### License
+- Apache License 2.0. See [`LICENSE`](./LICENSE).
+<!-- INSTALL-END -->
+
+
 [![Live Demo](https://img.shields.io/badge/Live-Vercel-black?logo=vercel&logoColor=white)](https://travelguide-leiway.vercel.app)
 [![GitHub last commit](https://img.shields.io/github/last-commit/808cadger/travelguide-leiway)](https://github.com/808cadger/travelguide-leiway/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/808cadger/travelguide-leiway)](https://github.com/808cadger/travelguide-leiway)
