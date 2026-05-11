@@ -1,5 +1,12 @@
 # TravelGuide LeiWay
 
+## Download Links
+
+- **iOS / iPhone:** Open the PWA in Safari: [TravelGuide LeiWay iOS install](https://808cadger.github.io/travelguide-leiway/) and choose **Share -> Add to Home Screen**.
+- **Android:** Download the latest APK from GitHub Releases: [TravelGuide LeiWay Android releases](https://github.com/808cadger/travelguide-leiway/releases/latest).
+- **Source download:** [Download the GitHub source ZIP](https://github.com/808cadger/travelguide-leiway/archive/refs/heads/main.zip).
+
+
 <!-- INSTALL-START -->
 ## Install and run
 
