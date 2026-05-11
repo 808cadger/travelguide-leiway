@@ -1,10 +1,35 @@
 # TravelGuide LeiWay
 
+[![Release](https://img.shields.io/github/v/release/808cadger/travelguide-leiway?include_prereleases&label=release)](https://github.com/808cadger/travelguide-leiway/releases)
+[![Last commit](https://img.shields.io/github/last-commit/808cadger/travelguide-leiway)](https://github.com/808cadger/travelguide-leiway/commits)
+[![License](https://img.shields.io/github/license/808cadger/travelguide-leiway)](https://github.com/808cadger/travelguide-leiway/blob/HEAD/LICENSE)
+![Platforms](https://img.shields.io/badge/platform-Static%20web%2C%20PWA-ready-2563eb)
+
+Hawaii-focused travel guide for local discovery, reviews, suggestions, and surrounding-area context.
+
+## Project Snapshot
+
+| Area | Details |
+|------|---------|
+| Primary use case | Hawaii-focused travel guide for local discovery, reviews, suggestions, and surrounding-area context. |
+| Platforms | Static web, PWA-ready |
+| Core stack | HTML, CSS, JavaScript, Static Web |
+| Review first | `index.html` |
+
 ## Download Links
 
-- **iOS / iPhone:** Open the PWA in Safari: [TravelGuide LeiWay iOS install](https://808cadger.github.io/travelguide-leiway/) and choose **Share -> Add to Home Screen**.
-- **Android:** Download the latest APK from GitHub Releases: [TravelGuide LeiWay Android releases](https://github.com/808cadger/travelguide-leiway/releases/latest).
-- **Source download:** [Download the GitHub source ZIP](https://github.com/808cadger/travelguide-leiway/archive/refs/heads/main.zip).
+| Platform | Link |
+|----------|------|
+| iOS / iPhone | [Open the PWA in Safari](https://808cadger.github.io/travelguide-leiway/) and choose **Share -> Add to Home Screen** |
+| Android | [Download the latest APK from GitHub Releases](https://github.com/808cadger/travelguide-leiway/releases/latest) |
+| Source | [Download the GitHub source ZIP](https://github.com/808cadger/travelguide-leiway/archive/refs/heads/main.zip) |
+| Repository | [View on GitHub](https://github.com/808cadger/travelguide-leiway) |
+
+## Why This Repo Is Worth Reviewing
+
+- Static app is simple to host and quick to load.
+- Travel content is scoped around local discovery and place context.
+- Good portfolio signal for frontend product packaging.
 
 
 <!-- INSTALL-START -->
